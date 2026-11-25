@@ -1,0 +1,11 @@
+ultralytics
+torch
+torchvision
+timm
+opencv-python
+scikit-learn
+numpy
+pandas
+Pillow
+tqdm
+jupyterlab
